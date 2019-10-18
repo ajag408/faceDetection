@@ -15,7 +15,7 @@ opencv-python==3.2.0.8
 psycopg2==2.7.3.1
 pycparser==2.18
 pytz==2017.2
-requests==2.18.3
+requests==2.20.0
 requests-oauthlib==0.8.0
 six==1.10.0
 sqlparse==0.2.3
