@@ -11,7 +11,7 @@ gunicorn==19.7.1
 idna==2.5
 numpy==1.13.1
 oauthlib==2.0.2
-opencv-python==3.2.0.8
+opencv-python==3.4.0.12
 psycopg2==2.7.3.1
 pycparser==2.18
 pytz==2017.2
